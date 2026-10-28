@@ -1,0 +1,31 @@
+feature,ks_statistic,p_value,drift_detected
+mean radius,0.3157894736842105,1.9999071027513094e-05,True
+mean texture,0.3333333333333333,5.233287756676702e-06,True
+mean perimeter,0.0,1.0,False
+mean area,0.0,1.0,False
+mean smoothness,0.0,1.0,False
+mean compactness,0.0,1.0,False
+mean concavity,0.0,1.0,False
+mean concave points,0.0,1.0,False
+mean symmetry,0.0,1.0,False
+mean fractal dimension,0.0,1.0,False
+radius error,0.0,1.0,False
+texture error,0.0,1.0,False
+perimeter error,0.0,1.0,False
+area error,0.0,1.0,False
+smoothness error,0.0,1.0,False
+compactness error,0.0,1.0,False
+concavity error,0.0,1.0,False
+concave points error,0.0,1.0,False
+symmetry error,0.0,1.0,False
+fractal dimension error,0.0,1.0,False
+worst radius,0.0,1.0,False
+worst texture,0.0,1.0,False
+worst perimeter,0.0,1.0,False
+worst area,0.0,1.0,False
+worst smoothness,0.0,1.0,False
+worst compactness,0.0,1.0,False
+worst concavity,0.0,1.0,False
+worst concave points,0.0,1.0,False
+worst symmetry,0.0,1.0,False
+worst fractal dimension,0.0,1.0,False

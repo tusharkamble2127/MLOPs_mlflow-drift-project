@@ -1,0 +1,9 @@
+{
+    "dataset_name": "Breast Cancer Wisconsin Diagnostic",
+    "records": 569,
+    "features": 30,
+    "target_classes": [
+        "malignant",
+        "benign"
+    ]
+}
